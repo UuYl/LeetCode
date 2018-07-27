@@ -1,0 +1,4 @@
+/Algorithms/.idea
+/Algorithms/cmake-build-debug/
+*.exe
+*.[oa]
