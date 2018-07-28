@@ -4,17 +4,17 @@ Implement function ToLowerCase() that has a string parameter str, and returns th
 
 #### Example 1
 
-> Input: "Hello"
+> Input: "Hello"<br>
 > Output: "hello"
 
 #### Example 2
 
-> Input: "here"
+> Input: "here"<br>
 > Input: "here"
 
 #### Example 3
 
-> Input: "LOVELY"
+> Input: "LOVELY"<br>
 > Output: "lovely"
 
 ## Reference
