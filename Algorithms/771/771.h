@@ -7,8 +7,8 @@
 
 #endif //ALGORITHMS_771_H
 
-#include<iostream>
-#include<unordered_map>
+#include <iostream>
+#include <unordered_map>
 using namespace std;
 
 class Solution {
