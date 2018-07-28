@@ -3,6 +3,6 @@ project(Algorithms)
 
 set(CMAKE_CXX_STANDARD 14)
 
-aux_source_directory(./709 DIR_SRCS)
+aux_source_directory(./804 DIR_SRCS)
 
 add_executable(Algorithms ${DIR_SRCS})
