@@ -16,3 +16,4 @@ public:
     int numJewelsInStones(string J, string S);
     int numJewelsInStonesHashMap(string J, string S);
 };
+
