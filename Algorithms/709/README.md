@@ -4,19 +4,25 @@ Implement function ToLowerCase() that has a string parameter str, and returns th
 
 #### Example 1
 
-> Input: "Hello"<br>
-> Output: "hello"
+```
+Input: "Hello"<br>
+Output: "hello"
+```
 
 #### Example 2
 
-> Input: "here"<br>
-> Input: "here"
+```
+Input: "here"<br>
+Input: "here"
+```
 
 #### Example 3
 
-> Input: "LOVELY"<br>
-> Output: "lovely"
+```
+Input: "LOVELY"<br>
+Output: "lovely"
+```
 
 ## Reference
 
-#### [Problem description link](https://leetcode.com/problems/to-lower-case/description/)
+[Problem description link](https://leetcode.com/problems/to-lower-case/description/)

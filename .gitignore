@@ -2,7 +2,6 @@
 /Algorithms/cmake-build-debug/
 *.exe
 *.[oa]
-Algorithms
 Makefile
 CMakeCache.txt
 cmake_install.cmake
